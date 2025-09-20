@@ -1,7 +1,6 @@
 # 👋 Hola, soy Juan
 
-🎓 Estudiante de **Ingeniería del Software**. 
-🚀 Siempre aprendiendo nuevas tecnologías y construyendo proyectos que resuelvan problemas reales.
+🎓 Estudiante de **Ingeniería del Software**. Siempre aprendiendo nuevas tecnologías y construyendo proyectos que resuelvan problemas reales.
 
 ---
 
