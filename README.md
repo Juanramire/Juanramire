@@ -32,7 +32,7 @@ _Proyecto desarrollado para la asignatura Diseño y Pruebas II, implementado sob
 
 ## 🌐 Conecta conmigo
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/)  
 - ✉️ [Email](mailto:juramo04@gmail.com)  
 
 ---
