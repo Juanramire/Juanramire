@@ -21,7 +21,7 @@
 ## 📌 Proyectos Destacados
 
 🔹 [**Proyecto A**](https://github.com/gii-is-DP1/DP1-2024-2025--l4-4)  
-_Proyecto desarrolado para la asignatura Diseño y Pruebas I sobre el juego Upstream_  
+_Proyecto desarrollado para la asignatura Diseño y Pruebas I sobre el juego Upstream_  
 
 🔹 [**Proyecto B**](https://github.com/marrivbec/gii-is-DP2-C2.033)  
 _Proyecto desarrollado para la asignatura Diseño y Pruebas II, implementado sobre un framework específico_ 
