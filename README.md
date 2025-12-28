@@ -34,12 +34,6 @@ _Proyecto desarrollado para la asignatura Planificación y Gestión de Proyectos
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Juanramire&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🌐 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/)  
