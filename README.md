@@ -20,11 +20,17 @@
 
 ## 📌 Proyectos Destacados
 
-🔹 [**Proyecto A**](https://github.com/gii-is-DP1/DP1-2024-2025--l4-4)  
+🔹 [**Proyecto A**](https://github.com/Juanramire/DP1-2024-2025--l4-4)  
 _Proyecto desarrollado para la asignatura Diseño y Pruebas I sobre el juego Upstream_  
 
 🔹 [**Proyecto B**](https://github.com/marrivbec/gii-is-DP2-C2.033)  
 _Proyecto desarrollado para la asignatura Diseño y Pruebas II, implementado sobre un framework específico_ 
+
+🔹 [**Proyecto C**](https://github.com/Juanramire/Lightsout)  
+_Proyecto desarrollado para la asignatura Inteligencia Artificial, implementando Planificación Automática aplicada al juego Lightsout_ 
+
+🔹 [**Proyecto D**](https://github.com/Juanramire/PGPI-2025-2026--G1.13)  
+_Proyecto desarrollado para la asignatura Planificación y Gestión de Proyectos Informáticos, contiene una tienda virtual desarrollada con Django. El conjunto del proyecto ha seguido el estándar PMBOK6_ 
 
 ---
 
