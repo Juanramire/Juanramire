@@ -39,7 +39,8 @@
 <table>
   <tr>
     <td>
-      <h3>⭐ TFG — <a href="https://github.com/Juanramire/tfg">Configurador de PCs</a></h3>
+      <b>⭐ TFG — <a href="https://github.com/Juanramire/tfg">Configurador de PCs</a></b>
+      <br /><br />
       Trabajo Fin de Grado (nota: 9). Aplicación web que configura PCs combinando Software Product Lines (FlamaPy/SAT) con generación de configuraciones asistida por IA (Gemini).
       <br /><br />
       <a href="https://configurador-de-pc.onrender.com"><img src="https://img.shields.io/badge/Demo-en%20vivo-0ea5e9?style=flat-square" alt="Demo en vivo" /></a>
