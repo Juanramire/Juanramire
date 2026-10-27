@@ -1,71 +1,91 @@
-# 👋 Hola, soy Juan Ramírez
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=190&section=header&text=Juan%20Ram%C3%ADrez%20Morales&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20de%20Software&descSize=18&descAlignY=58" alt="Juan Ramírez Morales — Ingeniero de Software" width="100%" />
+</p>
 
-🎓 Graduado en **Ingeniería Informática – Ingeniería del Software** por la Universidad de Sevilla  
+<p align="center">
+  📍 Sevilla
+</p>
 
----
-
-## 🛠️ Tecnologías & Herramientas
-
-**Lenguajes y entornos**  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Frameworks**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Bases de datos**  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Herramientas**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:juramo04@gmail.com"><img src="https://img.shields.io/badge/Email-juramo04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 📌 Proyectos Destacados
+## Sobre mí
 
-🔹 [**Upstream**](https://github.com/Juanramire/DP1-2024-2025--l4-4)  
-_Juego de mesa multijugador desarrollado en la asignatura Diseño y Pruebas I_  
-`Java` · `Spring Boot` · `Scrum`
+- 🎓 Graduado en **Ingeniería Informática – Ingeniería del Software** (Universidad de Sevilla, 2026). TFG con nota **9**.
+- 📚 Cursando el **M.U. en Ingeniería del Software: Cloud, Datos y Gestión de las TI** (US, 2026–2027).
+- 💼 Prácticas en **Hesstec** (mar–may 2026): backend y frontend en un monorepo de microservicios con arquitectura hexagonal, inyección de dependencias, BFF y TDD, usando Keycloak, PostgreSQL, MongoDB y Docker.
 
-🔹 [**DP2 — Proyecto sobre Framework**](https://github.com/marrivbec/gii-is-DP2-C2.033)  
-_Extensión e integración sobre un framework existente en la asignatura Diseño y Pruebas II_  
-`Java` · `Spring Boot` · `TDD`
+## Stack
 
-🔹 [**Lightsout AI**](https://github.com/Juanramire/Lightsout)  
-_Resolución del puzzle Lightsout mediante Planificación Automática, desarrollado en la asignatura Inteligencia Artificial_  
-`Python` · `Planificación Automática`
+| | |
+|:--|:--|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs&theme=dark" alt="Python, Java, JavaScript, TypeScript, Node.js" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,spring,django,fastapi&theme=dark" alt="React, Spring Boot, Django, FastAPI" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" alt="PostgreSQL, MongoDB, Supabase" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /> |
+| **DevOps / Herramientas** | <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vite&theme=dark" alt="Git, GitHub Actions, Docker, Vite" /> |
 
-🔹 [**Tienda Virtual Django**](https://github.com/Juanramire/PGPI-2025-2026--G1.13)  
-_E-commerce completo gestionado con estándar PMBOK6, desarrollado en la asignatura Planificación y Gestión de Proyectos Informáticos_  
-`Python` · `Django` · `PMBOK6`
+## Proyectos destacados
 
-🔹 [**TFG — Configurador de PCs**](https://github.com/Juanramire/tfg)  
-_Aplicación web para configurar PCs de forma inteligente combinando Software Product Lines (FlamaPy/SAT) con generación de configuraciones asistida por IA (Gemini)_  
-`Python` · `FastAPI` · `React` · `Vite` · `MongoDB` · `Docker`
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>⭐ TFG — <a href="https://github.com/Juanramire/tfg">Configurador de PCs</a> <sub>(nota: 9)</sub></h3>
+      Aplicación web que configura PCs combinando Software Product Lines (FlamaPy/SAT) con generación de configuraciones asistida por IA (Gemini).
+      <br /><br />
+      <a href="https://configurador-de-pc.onrender.com"><img src="https://img.shields.io/badge/Demo-en%20vivo-0ea5e9?style=flat-square" alt="Demo en vivo" /></a>
+      <a href="https://github.com/Juanramire/tfg"><img src="https://img.shields.io/badge/Repositorio-GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="Repositorio" /></a>
+      <br />
+      <sub>La demo puede tardar ~1 min en arrancar.</sub>
+      <br /><br />
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Vite</code> <code>MongoDB</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Vecinus/vecinus">VecinUs</a></h4>
+      Gestión de comunidades de vecinos (Ingeniería del Software y Práctica Profesional).
+      <br /><br />
+      <code>TypeScript</code> <code>Python</code> <code>Docker</code> <code>Supabase</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Juanramire/PGPI-2025-2026--G1.13">Tienda Virtual Django</a></h4>
+      E-commerce completo gestionado con el estándar PMBOK6 (Planificación y Gestión de Proyectos Informáticos).
+      <br /><br />
+      <code>Python</code> <code>Django</code> <code>PMBOK6</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Juanramire/DP1-2024-2025--l4-4">Upstream</a></h4>
+      Juego de mesa multijugador (Diseño y Pruebas I).
+      <br /><br />
+      <code>Java</code> <code>Spring Boot</code> <code>Scrum</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/angelmanuelferrer/Biblioteca-Digital-CBD">Biblioteca Digital CBD</a></h4>
+      API GraphQL para una biblioteca digital (autores, libros, préstamos y reseñas) con autenticación JWT y control de roles.
+      <br /><br />
+      <code>TypeScript</code> <code>Node.js</code> <code>GraphQL</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Juanramire/Lightsout">Lightsout AI</a></h4>
+      Resolución del puzzle Lightsout mediante Planificación Automática (Inteligencia Artificial).
+      <br /><br />
+      <code>Python</code> <code>Planificación Automática</code>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-🔹 [**Biblioteca Digital CBD**](https://github.com/angelmanuelferrer/Biblioteca-Digital-CBD)  
-_API GraphQL para la gestión de una biblioteca digital con autores, libros, préstamos y reseñas. Incluye autenticación JWT y control de roles_  
-`TypeScript` · `Node.js` · `GraphQL` · `MongoDB`
+## Contacto
 
-🔹 [**VecinUs App**](https://github.com/Vecinus/vecinus)  
-_Aplicación para la gestión de comunidades de vecinos desarrollada en la asignatura Ingeniería del Software y Práctica Profesional_  
-`TypeScript` · `Python` · `Docker` · `Supabase`
+<a href="https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Ram%C3%ADrez%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:juramo04@gmail.com"><img src="https://img.shields.io/badge/Email-juramo04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
-
-## 🌐 Conecta conmigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/)  
-- ✉️ [Email](mailto:juramo04@gmail.com)  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=100&section=footer" alt="" width="100%" />
