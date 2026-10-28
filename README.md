@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/juan-ramirezmorales/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:juramo04@gmail.com"><img src="https://img.shields.io/badge/Email-juramo04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -70,7 +70,7 @@
 
 ## Contacto
 
-<a href="https://www.linkedin.com/in/juan-ramirez-morales-8035a5353/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Ram%C3%ADrez%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/juan-ramirezmorales/"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Ram%C3%ADrez%20Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:juramo04@gmail.com"><img src="https://img.shields.io/badge/Email-juramo04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=100&section=footer" alt="" width="100%" />
