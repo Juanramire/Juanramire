@@ -43,7 +43,7 @@
       <br /><br />
       Trabajo Fin de Grado (nota: 9). Aplicación web que configura PCs combinando Software Product Lines (FlamaPy/SAT) con generación de configuraciones asistida por IA (Gemini).
       <br /><br />
-      <a href="https://configurador-de-pc.onrender.com"><img src="https://img.shields.io/badge/Demo-en%20vivo-0ea5e9?style=flat-square" alt="Demo en vivo" /></a>
+      <a href="https://configurador-de-pc-web.onrender.com"><img src="https://img.shields.io/badge/Demo-en%20vivo-0ea5e9?style=flat-square" alt="Demo en vivo" /></a>
       <a href="https://github.com/Juanramire/tfg"><img src="https://img.shields.io/badge/Repositorio-GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="Repositorio" /></a>
       <br />
       <sub>La demo puede tardar ~1 min en arrancar.</sub>
